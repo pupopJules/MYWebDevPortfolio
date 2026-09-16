@@ -23,7 +23,7 @@ portfolio/
 
 ## Running it
 
-No server required — open `index.html` directly in a browser.
+No server required — open `newjulesai.html` directly in a browser.
 
 For a local server (useful if you later add fetch calls or routing):
 
@@ -44,7 +44,7 @@ python3 -m http.server 8080
 ### Adding a project
 
 Copy any `<article class="fileitem">` block in the `#work` section of
-`index.html` and edit the name, tech list, description, and link. The
+`newjulesai.html` and edit the name, tech list, description, and link. The
 expand/collapse behavior is wired up automatically — no JS changes needed.
 
 ## Theming
